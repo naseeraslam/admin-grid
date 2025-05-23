@@ -2,7 +2,7 @@
     "name": "fivetech/module-testassignment",
     "description": "Implementation of grid and graphql apis",
     "require": {
-        "php": "~5.5.0|~5.6.0|~7.0.0",
+        "php": ">=7.4",
         "magento/framework": "100.0.*"
     },
     "type": "magento2-module",
@@ -14,7 +14,9 @@
     "authors": [
         {
             "name": "Muhammad Naseer Aslam",
-            "email": "naseeraslamkhan016@gmail.com"
+            "email": "naseer.a@retaildirect.co.uk",
+            "homepage": "https://www.linkedin.com/in/muhammad-naseer-aslam-magento-developer/",
+            "role": "Developer"
         }
     ],
     "autoload": {
